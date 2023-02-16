@@ -16,5 +16,5 @@ This is code just for practice the process how to use GitHub creating sample sam
 
 ***HOW TO RUN PROGRAM***
 -------
-'print("Hello World")'
+`print("Hello World")`
 
