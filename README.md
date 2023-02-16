@@ -4,7 +4,6 @@
 2. Description 
 3. How to Run Program 
 4. Files Used 
-6. Versioning
 
 ***PROJECT TITLE***
 -----
