@@ -25,5 +25,5 @@ print("Hello World")
 ***FILES USED***
 ------
 
-- Python
-- Code type
+*  Python
+*  Code type
