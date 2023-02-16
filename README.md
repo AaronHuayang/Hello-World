@@ -15,6 +15,7 @@ This is code just for practice the process how to use GitHub creating sample sam
 
 ***HOW TO RUN PROGRAM***
 -------
+Bascially just unsing Python programming system type the code down there and run the program
 `Using Python run the program: 
 print("Hello World")`
 
