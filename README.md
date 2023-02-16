@@ -1,4 +1,4 @@
-###H3TABLE OF CONTACT
+###TABLE OF CONTACT
 -----
 1. Project Title 
 2. Description 
