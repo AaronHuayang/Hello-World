@@ -4,7 +4,6 @@
 2. Description 
 3. How to Run Program 
 4. Files Used 
-5. Additional Documentation 
 6. Versioning
 
 ***PROJECT TITLE***
@@ -17,5 +16,5 @@ This is code just for practice the process how to use GitHub creating sample sam
 
 ***HOW TO RUN PROGRAM***
 -------
-
+'print("Hello World")'
 
