@@ -24,7 +24,6 @@ print("Hello World")
 
 ***FILES USED***
 ------
-```
-a. Python
-b. Code type
-```
+
+- Python
+- Code type
